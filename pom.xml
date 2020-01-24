@@ -16,6 +16,15 @@
 
   <version>1.0</version>
   
+<dependencies>
+  <dependency>
+  <groupId>com.jwebmp.jpms.commons</groupId>
+  <artifactId>commons-lang3</artifactId>
+  <version>0.68.0.1</version>
+</dependency>
+</dependencies> 
+  
+  
   <build>
     <plugins>
       <plugin>
